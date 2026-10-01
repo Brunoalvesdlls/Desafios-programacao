@@ -7,8 +7,9 @@
 ---
 ## Tabela de Exercícios e Comprovações
 | 01 | [coddy Módulo 1] | [Uso de printf/scanf/float] | Aprovado | [Ver Imagem](./prints/print_01.png) |
-| 02 | [coddy modulo 2] | [Uso de printf/float/double/char]
-| Aprovado | [Ver Imagem](./prints/print_02.png) |
+
+| 02 | [coddy modulo 2] | [Uso de printf/float/double/char]| Aprovado | [Ver Imagem](./prints/print_02.png) |
+
 | 03 | [ FreeCodeCamp ] | [ Uso de parágrafo/ titulo, subtitulo, img, link explicação logica do que é HTML]
 | Aprovado | [Ver Imagem](./prints/print_03.png) |
 
